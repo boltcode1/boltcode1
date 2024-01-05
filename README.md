@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boltcode1
-- 👀 I’m interested in Data Science and WebDev.
-- 🌱 I’m currently learning SQL.
+- 👀 I’m interested in Android App Development and Guitar.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on projects and internships.
 - 📫 How to reach me, my email - sharmaanmol.4411@gmail.com.
 
